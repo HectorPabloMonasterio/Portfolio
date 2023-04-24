@@ -1,0 +1,10 @@
+@media (min-width: 576px) {
+    #fotodeperfil {
+        position:absolute;
+        width: 20%;
+        left: 10%;
+        top: 440px;
+        border-radius: 100%; 
+    }
+
+}

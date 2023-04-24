@@ -1,4 +1,27 @@
+/*
 app-redes-s {
     float: right;
+    margin: 0em;
 
 }
+
+app-banner {
+    float: left;
+    margin: 0em;
+
+}
+*/
+/*
+app-menu {
+    float: left;
+    margin-left: 1em;
+}
+
+@media (min-width: 576px) {
+    app-menu{
+        position: absolute;
+        margin-left: 200px;
+        margin-top: 430px;
+    }
+}
+*/
